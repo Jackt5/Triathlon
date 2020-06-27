@@ -1,368 +1,368 @@
-Rank,First_Name,Last_Name,Sex,Age,State,Time,Race,Race
-1,Michael,Alexander,M,53,FL,01:02:29.000,87.912,Bartow Blarney Triathlon
-2,Mark,Hulbert,M,54,FL,01:04:06.000,85.695,Bartow Blarney Triathlon
-3,Brian,Durden,M,35,FL,01:05:30.000,83.863,Bartow Blarney Triathlon
-4,Rodney,Carter,M,42,FL,01:05:54.000,83.354,Bartow Blarney Triathlon
-5,James,Hooppaw,M,27,FL,01:06:10.000,83.018,Bartow Blarney Triathlon
-6,Alexander,Williams,M,36,FL,01:06:31.000,82.582,Bartow Blarney Triathlon
-7,Benjamin,Peacock,M,23,FL,01:07:12.000,81.742,Bartow Blarney Triathlon
-8,Joel,Radd,M,33,FL,01:08:02.000,80.741,Bartow Blarney Triathlon
-9,KC,Wilson,M,26,FL,01:09:14.000,79.341,Bartow Blarney Triathlon
-10,Andrew,Martin,M,50,FL,01:11:41.000,76.63,Bartow Blarney Triathlon
-11,David,Giles,M,56,FL,01:11:57.000,76.345,Bartow Blarney Triathlon
-12,Kristin,Coker,F,40,FL,01:12:12.000,83.689,Bartow Blarney Triathlon
-13,Peter,Boncelet,M,61,FL,01:13:27.000,74.786,Bartow Blarney Triathlon
-14,Nicole,Brown,F,44,FL,01:13:50.000,81.838,Bartow Blarney Triathlon
-15,Dennis,Thompson,M,65,FL,01:13:55.000,74.314,Bartow Blarney Triathlon
-16,alejandro,caribas,M,50,FL,01:14:06.000,74.13,Bartow Blarney Triathlon
-17,Sean,Brown,M,48,FL,01:14:49.000,73.42,Bartow Blarney Triathlon
-18,Dylan,St. Ours,M,28,FL,01:15:04.000,73.176,Bartow Blarney Triathlon
-19,Kathy,Ritchie,F,35,FL,01:15:23.000,80.155,Bartow Blarney Triathlon
-20,Patty,Schmaedeke,F,52,FL,01:17:03.000,78.421,Bartow Blarney Triathlon
-1,Benjamin,Hartell,M,34,FL,00:52:59.000,83.921,College of the Florida Keys Sprint Triathlon/Biathlon
-2,John,Wile,M,34,FL,00:54:46.000,81.189,College of the Florida Keys Sprint Triathlon/Biathlon
-3,Barton,Smith,M,41,FL,00:56:26.000,78.791,College of the Florida Keys Sprint Triathlon/Biathlon
-4,Matthew,Weber,M,28,GA,00:57:00.000,78.008,College of the Florida Keys Sprint Triathlon/Biathlon
-5,Ericka,Stokes,F,32,FL,01:01:05.000,80.072,College of the Florida Keys Sprint Triathlon/Biathlon
-6,Joseph,Crispino,M,57,NY,01:04:25.000,69.026,College of the Florida Keys Sprint Triathlon/Biathlon
-7,Steven,Jaroszewski,M,64,FL,01:04:29.000,68.955,College of the Florida Keys Sprint Triathlon/Biathlon
-8,Michael,Sutter,M,49,IN,01:05:50.000,67.541,College of the Florida Keys Sprint Triathlon/Biathlon
-9,Nicholas,Tamble,M,47,MN,01:08:26.000,64.975,College of the Florida Keys Sprint Triathlon/Biathlon
-10,Savannah,Young,F,28,GA,01:10:20.000,69.541,College of the Florida Keys Sprint Triathlon/Biathlon
-11,Casey,Hartell,F,31,VA,01:12:42.000,67.277,College of the Florida Keys Sprint Triathlon/Biathlon
-12,Alice,Watrobka,F,66,IL,01:18:25.000,62.373,College of the Florida Keys Sprint Triathlon/Biathlon
-13,Makayla,Bullard,F,24,FL,01:22:17.000,59.442,College of the Florida Keys Sprint Triathlon/Biathlon
-14,Brian,Woodford,M,43,FL,01:25:16.000,52.147,College of the Florida Keys Sprint Triathlon/Biathlon
-15,Webb,Moore,M,62,VA,01:30:49.000,48.961,College of the Florida Keys Sprint Triathlon/Biathlon
-16,Melissa,Wagner,F,51,TN,01:39:52.000,48.976,College of the Florida Keys Sprint Triathlon/Biathlon
-17,Mickayla,Woodford,F,8,FL,01:51:57.000,43.69,College of the Florida Keys Sprint Triathlon/Biathlon
-18,Micki,Woodford,F,45,FL,01:52:14.000,43.58,College of the Florida Keys Sprint Triathlon/Biathlon
-1,Dawn,Fontana,F,45,FL,15:07:39.000,95.357,Florida Ultra Week
-2,Matthew,Weathers,M,35,SC,16:00:29.000,81.919,Florida Ultra Week
-3,Rick,Shea,M,45,FL,16:12:39.000,80.895,Florida Ultra Week
-4,Brad,Baker,M,37,PA,16:54:49.000,77.533,Florida Ultra Week
-5,Chelsea,Shea,F,50,FL,17:10:20.000,84.003,Florida Ultra Week
-6,Karen,Alexeev,F,68,FL,17:24:00.000,82.903,Florida Ultra Week
-7,Sandra,Marino,F,53,FL,17:34:36.000,82.07,Florida Ultra Week
-8,Adelaida,Bereijo,F,54,FL,28:30:50.000,50.59,Florida Ultra Week
-9,Sebastain,Golod,M,46,FL,DNF,,Florida Ultra Week
-1,Zack,Goodman,M,26,MD,01:03:05.000,100.387,UCSB Kendra's Race Triathlon
-2,Dustin,Duncan,M,20,CA,01:04:02.000,98.897,UCSB Kendra's Race Triathlon
-3,Jake,Tennant,M,23,CA,01:04:36.000,98.03,UCSB Kendra's Race Triathlon
-4,Mark,Hermes,M,28,CA,01:05:19.000,96.954,UCSB Kendra's Race Triathlon
-5,Calum,Rickard,M,29,CA,01:05:58.000,95.999,UCSB Kendra's Race Triathlon
-6,Kyle,Visin,M,37,CA,01:06:21.000,95.444,UCSB Kendra's Race Triathlon
-7,Joey,Costello,M,22,MI,01:06:45.000,94.872,UCSB Kendra's Race Triathlon
-8,Paul,Lathrop,M,23,MD,01:07:22.000,94.004,UCSB Kendra's Race Triathlon
-9,Robby,Dorn,M,26,MN,01:08:27.000,92.516,UCSB Kendra's Race Triathlon
-10,Gregory,Aitken,M,22,CA,01:08:58.000,91.823,UCSB Kendra's Race Triathlon
-11,Jesse,Holt,M,28,CA,01:09:15.000,91.447,UCSB Kendra's Race Triathlon
-12,Rory,Runser,M,27,CA,01:09:18.000,91.381,UCSB Kendra's Race Triathlon
-13,Eric,Wayman,M,24,CA,01:09:24.000,91.25,UCSB Kendra's Race Triathlon
-14,ALBERTO,CARRENO,M,30,CA,01:09:32.000,91.075,UCSB Kendra's Race Triathlon
-15,Bradley,Rava,M,26,CA,01:10:45.000,89.509,UCSB Kendra's Race Triathlon
-16,Beril,Polat,F,27,CA,01:11:03.000,98.044,UCSB Kendra's Race Triathlon
-17,Eric,Ingrande,M,20,CA,01:11:03.000,89.131,UCSB Kendra's Race Triathlon
-18,Dario,Urbina Melendez,M,28,CA,01:11:10.000,88.984,UCSB Kendra's Race Triathlon
-19,Alexander,Bosch,M,23,CA,01:11:24.000,88.694,UCSB Kendra's Race Triathlon
-20,Elena,Galbally,F,27,CA,01:11:36.000,97.291,UCSB Kendra's Race Triathlon
-1,John ,Reback,M,50,FL,00:54:55.000,99.617,Las Olas Fort Lauderdale Triathlon
-2,javier,morales,M,35,fl,00:54:57.000,99.557,Las Olas Fort Lauderdale Triathlon
-3,Roughan ,Gaetz,M,16,NL,00:55:28.000,98.629,Las Olas Fort Lauderdale Triathlon
-4,Rodrigo,Teixeira de Abreu,M,42,FL,00:57:07.000,95.78,Las Olas Fort Lauderdale Triathlon
-5,Carla,Moreno,F,44,FL,00:58:36.000,102.692,Las Olas Fort Lauderdale Triathlon
-6,Eduardo,Figueiredo,M,43,FL,00:59:36.000,91.789,Las Olas Fort Lauderdale Triathlon
-7,Jasmel,Acosta,M,39,FL,00:59:48.000,91.482,Las Olas Fort Lauderdale Triathlon
-8,wilman,santa cruz,M,47,FL,00:59:57.000,91.254,Las Olas Fort Lauderdale Triathlon
-9,Ragnar,Mendez,M,38,FL,00:59:59.000,91.203,Las Olas Fort Lauderdale Triathlon
-10,Gabriel,Zimeri,M,28,FL,01:00:15.000,90.799,Las Olas Fort Lauderdale Triathlon
-11,Kayla,Pokorny,F,32,FL,01:00:35.000,99.33,Las Olas Fort Lauderdale Triathlon
-12,IDALMIS,PEDRERO,F,43,FL,01:00:35.000,99.33,Las Olas Fort Lauderdale Triathlon
-13,Flavio,Jose,M,42,FL,01:01:30.000,88.954,Las Olas Fort Lauderdale Triathlon
-14,Justin,Griffee,M,41,FL,01:01:54.000,88.379,Las Olas Fort Lauderdale Triathlon
-15,IVONNE,PEDRERO,F,47,FL,01:02:02.000,97.008,Las Olas Fort Lauderdale Triathlon
-16,Taylor,Marks,M,24,FL,01:02:17.000,87.835,Las Olas Fort Lauderdale Triathlon
-17,Carlos,Dolabella,M,59,FL,01:03:12.000,86.561,Las Olas Fort Lauderdale Triathlon
-18,josue ,lain velilla,M,43,fl,01:03:18.000,86.424,Las Olas Fort Lauderdale Triathlon
-19,Tiago,Choze,M,39,FL,01:03:27.000,86.22,Las Olas Fort Lauderdale Triathlon
-20,Albert,Iglesias,M,27,FL,01:03:44.000,85.837,Las Olas Fort Lauderdale Triathlon
-1,Tony,Macias,M,38,CA,00:49:25.000,93.882,Pasadena Triathlon 2020
-2,Hudson,Billock,M,17,CA,00:50:45.000,91.415,Pasadena Triathlon 2020
-3,Ryan,Cosner,M,24,CA,00:52:52.000,87.755,Pasadena Triathlon 2020
-4,SCOTT,REESER,M,46,CA,00:53:57.000,85.993,Pasadena Triathlon 2020
-5,Schuyler,Mastain,M,38,CA,00:53:58.000,85.966,Pasadena Triathlon 2020
-6,Ryan,Schneider,M,46,CA,00:54:20.000,85.386,Pasadena Triathlon 2020
-7,Mark,Strauss,M,53,CA,00:54:23.000,85.308,Pasadena Triathlon 2020
-8,Michael,Kezian,M,32,CA,00:54:58.000,84.402,Pasadena Triathlon 2020
-9,Jack,Nunn,M,41,CA,00:55:27.000,83.667,Pasadena Triathlon 2020
-10,Josh,Lustyan,M,40,CA,00:55:33.000,83.516,Pasadena Triathlon 2020
-11,Jeff,Slezak,M,48,CA,00:56:08.000,82.648,Pasadena Triathlon 2020
-12,Paul,Ferraro,M,50,NV,00:57:04.000,81.296,Pasadena Triathlon 2020
-13,TOM,RUTHERFORD,M,51,CA,00:57:11.000,81.131,Pasadena Triathlon 2020
-14,Zachary,Foster,M,32,CA,00:57:18.000,80.965,Pasadena Triathlon 2020
-15,Les,Shibata,M,65,CA,00:57:34.000,80.59,Pasadena Triathlon 2020
-16,Justin,Tolentino,M,37,CA,00:57:37.000,80.52,Pasadena Triathlon 2020
-17,Ren,Tong,M,38,CA,00:58:01.000,79.965,Pasadena Triathlon 2020
-18,Aaron,Sharp,M,17,CA,00:58:05.000,79.874,Pasadena Triathlon 2020
-19,Dean,Critel,M,51,CA,00:58:37.000,79.147,Pasadena Triathlon 2020
-20,Erika,Lilley,F,41,CA,00:58:53.000,86.667,Pasadena Triathlon 2020
-1,Josh,EATON,M,35,FL,01:01:29.900,100.41,Clermont Draft Legal Challenge 
-2,Lee,RANTALA,M,43,ON,01:01:51.100,99.836,Clermont Draft Legal Challenge 
-3,Jason,MCCORMACK,M,32,SC,01:02:06.900,99.413,Clermont Draft Legal Challenge 
-4,Robert,VAN KIRK,M,27,OH,01:02:28.100,98.85,Clermont Draft Legal Challenge 
-5,Jeremy,LAJOIE,M,17,QC,01:03:09.400,97.773,Clermont Draft Legal Challenge 
-6,Roman,FEDOSIEIEV,M,28,NY,01:03:24.200,97.393,Clermont Draft Legal Challenge 
-7,Oliver,PORTER,M,21,NC,01:03:24.900,97.375,Clermont Draft Legal Challenge 
-8,Cole,RANDOLPH,M,20,MD,01:04:46.900,95.32,Clermont Draft Legal Challenge 
-9,John,ANTHONY,M,46,CT,01:04:49.800,95.249,Clermont Draft Legal Challenge 
-10,Jonathan,RODRIGUEZ,M,31,FL,01:05:50.400,93.788,Clermont Draft Legal Challenge 
-11,Jiachao,WANG,M,29,,01:06:27.700,92.911,Clermont Draft Legal Challenge 
-12,Craig,KIVISTO,M,31,ON,01:06:35.500,92.729,Clermont Draft Legal Challenge 
-13,Patrick,SIROIS,M,50,FL,01:06:39.700,92.632,Clermont Draft Legal Challenge 
-14,Corey,STEIMEL,M,35,CO,01:06:46.200,92.482,Clermont Draft Legal Challenge 
-15,Todd,Shellenberger,M,53,IN,01:07:15.500,91.81,Clermont Draft Legal Challenge 
-16,Ryan,KNOPFLE,M,40,FL,01:07:46.700,91.106,Clermont Draft Legal Challenge 
-17,William,DOLAN,M,25,VA,01:07:57.200,90.871,Clermont Draft Legal Challenge 
-18,Amira,FAULKNER,F,19,OH,01:08:48.000,98.728,Clermont Draft Legal Challenge 
-19,Ryan,LINDLEY,M,16,VA,01:08:59.600,89.502,Clermont Draft Legal Challenge 
-20,Emma,MACDONALD,F,20,NY,01:10:52.400,95.841,Clermont Draft Legal Challenge 
-1,Jonathan,McKinley,M,28,CA,00:55:13.900,104.398,Stanford Treeathlon
-2,Bear,Schickel,M,21,CA,00:55:21.800,104.15,Stanford Treeathlon
-3,Mark,Schefter,M,25,CA,00:56:53.400,101.355,Stanford Treeathlon
-4,Shawn,Forer,M,22,CA,00:57:32.700,100.202,Stanford Treeathlon
-5,Stephen,Sloan,M,23,CA,00:58:26.900,98.653,Stanford Treeathlon
-6,Tom,Robey,M,22,CA,00:58:45.500,98.133,Stanford Treeathlon
-7,Jonas,Jimenez,M,22,CA,00:59:59.500,96.115,Stanford Treeathlon
-8,Jake,Tennant,M,23,CA,01:00:19.600,95.581,Stanford Treeathlon
-9,Alex,Buckley,M,21,CA,01:00:19.800,95.576,Stanford Treeathlon
-10,Franklin,Rice,M,24,CA,01:00:39.100,95.069,Stanford Treeathlon
-11,Grant,Grafentin,M,27,CA,01:01:19.300,94.03,Stanford Treeathlon
-12,Michael,Reese,M,27,CO,01:01:41.100,93.477,Stanford Treeathlon
-13,Sam,Blakewell,M,20,CA,01:01:54.800,93.132,Stanford Treeathlon
-14,Noah,Shlesinger,M,22,OR,01:02:02.100,92.949,Stanford Treeathlon
-15,Mason,Johnson,M,20,CA,01:02:23.300,92.423,Stanford Treeathlon
-16,Eric,Wayman,M,24,CA,01:04:04.200,89.997,Stanford Treeathlon
-17,Kyle,Rentschler,M,23,CA,01:04:04.300,89.994,Stanford Treeathlon
-18,Brendan,Deas,M,23,CA,01:04:20.500,89.617,Stanford Treeathlon
-19,Joey,Llewellyn,M,24,CA,01:04:54.600,88.832,Stanford Treeathlon
-20,Nicole,Collins,F,20,CA,01:05:10.300,97.324,Stanford Treeathlon
-1,CHARLIE,BOEYINK,M,47,AZ,02:30:53.920,92.145,3rd Annual Tri-Family Racing Lake Pleasant 
-2,WILLIAM,OWSLEY,M,53,AZ,02:31:38.470,91.694,3rd Annual Tri-Family Racing Lake Pleasant 
-3,ARA,PARSEGHIAN,M,36,AZ,02:31:46.210,91.616,3rd Annual Tri-Family Racing Lake Pleasant 
-4,ANDREW,MALLY,M,40,AZ,02:36:47.420,88.682,3rd Annual Tri-Family Racing Lake Pleasant 
-5,JAMES,MAMARIL-DAVIS,M,25,AZ,02:43:00.730,85.298,3rd Annual Tri-Family Racing Lake Pleasant 
-6,CHARLIE,REED,M,25,MI,02:45:11.390,84.173,3rd Annual Tri-Family Racing Lake Pleasant 
-7,SAM,GADZICHOWSKI,M,41,AZ,02:46:11.350,83.667,3rd Annual Tri-Family Racing Lake Pleasant 
-8,DAVID,EDWARDS,M,31,AZ,02:49:05.370,82.232,3rd Annual Tri-Family Racing Lake Pleasant 
-9,SHANNON,TREEN,F,38,AZ,02:54:45.560,87.52,3rd Annual Tri-Family Racing Lake Pleasant 
-10,ANDREW,ROERICK,M,24,NM,02:55:26.660,79.253,3rd Annual Tri-Family Racing Lake Pleasant 
-11,ANN,ATKINSON,F,35,AZ,02:57:24.750,86.211,3rd Annual Tri-Family Racing Lake Pleasant 
-12,PATRICK,FISHER,M,47,AZ,03:00:03.580,77.222,3rd Annual Tri-Family Racing Lake Pleasant 
-13,ASA,HOLLY,M,34,AZ,03:01:21.560,76.668,3rd Annual Tri-Family Racing Lake Pleasant 
-14,TODD,LEONARD,M,48,AZ,03:01:34.520,76.577,3rd Annual Tri-Family Racing Lake Pleasant 
-15,MIKE,PARKINS,M,44,AZ,03:04:46.080,75.254,3rd Annual Tri-Family Racing Lake Pleasant 
-16,CHRISTOPHER,SMITH,M,34,AZ,03:06:13.680,74.664,3rd Annual Tri-Family Racing Lake Pleasant 
-17,KRISTA,EDWARDS,F,31,AZ,03:07:04.420,81.76,3rd Annual Tri-Family Racing Lake Pleasant 
-18,CHAD,BUCK,M,43,AZ,03:08:33.110,73.744,3rd Annual Tri-Family Racing Lake Pleasant 
-19,Michael,Tucker,M,56,AZ,03:11:50.670,72.478,3rd Annual Tri-Family Racing Lake Pleasant 
-20,PETER,BAUMAN,M,39,AZ,03:12:08.230,72.368,3rd Annual Tri-Family Racing Lake Pleasant 
-1,Justin,Morrison,M,32,AZ,01:05:25.800,92.354,Desert Triathlon
-2,Gregory,Strausberg,M,38,CA,01:08:19.070,88.45,Desert Triathlon
-3,Bill,Whitman,M,57,CA,01:10:29.220,85.728,Desert Triathlon
-4,Sam,Kosters,M,31,CA,01:11:25.500,84.603,Desert Triathlon
-5,brandon,estrella,M,39,CA,01:11:28.020,84.553,Desert Triathlon
-6,Jeremy,Withrow,M,42,CA,01:11:35.610,84.403,Desert Triathlon
-7,David,Whalley,M,37,CA,01:12:56.690,82.84,Desert Triathlon
-8,Daniel,Flanagan,M,27,CA,01:13:17.320,82.451,Desert Triathlon
-9,David,Marsh,M,66,CA,01:14:03.410,81.596,Desert Triathlon
-10,Devin,Watson,M,26,CA,01:14:16.200,81.362,Desert Triathlon
-11,Jorge,De la Torre,M,29,CA,01:14:38.790,80.951,Desert Triathlon
-12,Sherri,Ellerby,F,56,CA,01:14:40.630,89.01,Desert Triathlon
-13,Gabriel,Filkey,M,42,CA,01:15:26.700,80.095,Desert Triathlon
-14,khaled,alghannam,M,19,CA,01:15:28.390,80.065,Desert Triathlon
-15,James,Daichendt,M,45,CA,01:15:32.010,80.001,Desert Triathlon
-16,Marie,Town,F,36,CA,01:15:33.790,87.966,Desert Triathlon
-17,CHELSEA E.,VanCott,F,30,CA,01:15:38.570,87.874,Desert Triathlon
-18,Anthony,Chinchillas,M,58,CA,01:15:42.860,79.81,Desert Triathlon
-19,renee,milton,F,60,CA,01:16:10.380,87.262,Desert Triathlon
-20,Robert,Kinney,M,67,CA,01:16:18.430,79.19,Desert Triathlon
-1,CARL,NEWTON,M,36,AZ,01:08:39.000,99.753,Iceman Triathlon
-2,MICHAEL,DUNN,M,38,AZ,01:11:33.000,95.71,Iceman Triathlon
-3,SAMUEL,KOHLL,M,26,NE,01:12:41.000,94.217,Iceman Triathlon
-4,CARL,ZAPFE,M,25,AZ,01:13:51.000,92.729,Iceman Triathlon
-5,JOHN,POISSON,M,58,AZ,01:17:13.000,88.686,Iceman Triathlon
-6,DAVID,MCHALE,M,60,AZ,01:17:27.000,88.419,Iceman Triathlon
-7,VICTOR,GARCIA,M,28,AZ,01:17:39.000,88.191,Iceman Triathlon
-8,TRAVIS,GRIM,M,40,AZ,01:20:45.000,84.805,Iceman Triathlon
-9,JERRY,KIBBY,M,48,AZ,01:21:06.000,84.439,Iceman Triathlon
-10,DYLAN,KENNEDY,M,42,AZ,01:21:33.000,83.973,Iceman Triathlon
-11,PAUL,JELINEK,M,41,AZ,01:22:29.000,83.023,Iceman Triathlon
-12,MEGAN,NEWTON,F,34,AZ,01:22:52.000,90.903,Iceman Triathlon
-13,BRIAN,CONWAY,M,46,AZ,01:23:32.000,81.98,Iceman Triathlon
-14,JOHNQ,ELLIS,M,60,AZ,01:24:21.000,81.186,Iceman Triathlon
-15,WADE,GROW,M,58,AZ,01:24:33.000,80.994,Iceman Triathlon
-16,JONATHAN,BOYD,M,37,AZ,01:24:54.000,80.66,Iceman Triathlon
-17,SARAH,BYERS,F,39,AZ,01:25:45.000,87.846,Iceman Triathlon
-18,JOEY,RUSNAK,M,19,AZ,01:25:54.000,79.721,Iceman Triathlon
-19,JEREMY,MARCY,M,47,AZ,01:26:12.000,79.443,Iceman Triathlon
-20,Erik,Larson,M,43,AZ,01:26:58.000,78.743,Iceman Triathlon
-1,Grayson,Stinger,M,20,KY,00:33:10.300,92.72,Shelbyville Triathlon Series Race #1
-2,Gregory,Garcia,M,44,KY,00:34:09.300,90.051,Shelbyville Triathlon Series Race #1
-3,Chris,Estes,M,42,KY,00:34:42.500,88.615,Shelbyville Triathlon Series Race #1
-4,Austin,Schaffner,M,28,KY,00:35:40.300,86.222,Shelbyville Triathlon Series Race #1
-5,Clay,Jones,M,51,KY,00:36:00.600,85.412,Shelbyville Triathlon Series Race #1
-6,Jack,Zink,M,22,KS,00:36:01.800,85.364,Shelbyville Triathlon Series Race #1
-7,Lewis,Jackson,M,37,KY,00:36:43.600,83.745,Shelbyville Triathlon Series Race #1
-8,Jeremy,Rowlette,M,40,KY,00:37:27.800,82.098,Shelbyville Triathlon Series Race #1
-9,Zachary,Bell,M,26,KY,00:38:36.000,79.681,Shelbyville Triathlon Series Race #1
-10,Alec,Meszaros,M,23,OH,00:38:40.800,79.516,Shelbyville Triathlon Series Race #1
-11,Lisle,Adams,M,34,KY,00:39:18.000,78.262,Shelbyville Triathlon Series Race #1
-12,John,Marcum,M,21,KY,00:39:56.900,76.991,Shelbyville Triathlon Series Race #1
-13,Charles,Fell,M,55,KY,00:39:58.200,76.95,Shelbyville Triathlon Series Race #1
-14,Ryan,Piazza,M,15,KY,00:40:02.900,76.799,Shelbyville Triathlon Series Race #1
-15,Miller,Gimbe,M,17,,00:40:23.000,76.162,Shelbyville Triathlon Series Race #1
-16,John,Cioci,M,48,KY,00:40:23.200,76.156,Shelbyville Triathlon Series Race #1
-17,Dallas,Harshfield,M,41,KY,00:40:33.800,75.824,Shelbyville Triathlon Series Race #1
-18,Leon,Sachs,M,53,KY,00:41:07.400,74.792,Shelbyville Triathlon Series Race #1
-19,Jeffrey,Benton,M,44,KY,00:41:11.500,74.667,Shelbyville Triathlon Series Race #1
-20,Darren,Cobbum,M,50,IN,00:41:16.900,74.505,Shelbyville Triathlon Series Race #1
-1,Josh,Powers,M,20,FL,02:05:50.000,101.41,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
-2,Martin,Paez,M,31,FL,02:11:39.000,96.93,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
-3,Bernie,Perez,M,45,FL,02:14:28.000,94.899,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
-4,Francisco,Soler,M,40,FL,02:14:31.000,94.864,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
-5,Bolko,De Pawlikowski,M,52,FL,02:15:54.000,93.898,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
-6,Oscar,Nino,M,32,,02:16:52.000,93.235,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
-7,Miguel Angel,Pippo,M,43,FL,02:18:11.000,92.347,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
-8,Jennifer,Vogel,F,39,FL,02:22:09.000,98.747,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
-9,Clebert,Duarte Mattos,M,50,FL,02:27:36.000,86.455,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
-10,Elizabeth,Ferrer,F,27,FL,02:28:22.000,94.61,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
-11,Javier,Torres,M,37,FL,02:29:15.000,85.499,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
-12,Esi,Shabani,M,48,FL,02:30:09.000,84.987,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
-13,Gabriel,Benitez,M,42,FL,02:30:49.000,84.611,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
-14,Matteo,Rossi,M,51,FL,02:31:46.000,84.082,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
-15,Brad,Moss,M,34,FL,02:31:56.000,83.989,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
-16,Devin,Patterson,M,34,FL,02:32:53.000,83.468,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
-17,Julia,Fermayer,F,43,FL,02:36:25.000,89.74,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
-18,Parker,Poliakoff,M,28,FL,02:38:15.000,80.637,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
-19,Brad,Giardino,M,39,NY,02:39:09.000,80.181,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
-20,Joy,Braun,F,46,FL,02:39:12.000,88.172,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
-1,Kurt,Barnhill,M,32,FL,00:52:44.000,94.593,Chasing Caterpillars Triathlon 2020
-2,Jeff,Fairbanks,M,42,GA,00:54:22.900,91.726,Chasing Caterpillars Triathlon 2020
-3,Neal,MacLean,M,44,FL,00:55:06.900,90.505,Chasing Caterpillars Triathlon 2020
-4,Ryan,Degregorio,M,25,NJ,00:56:18.600,88.585,Chasing Caterpillars Triathlon 2020
-5,Bryan,Liles,M,45,FL,00:57:24.700,86.885,Chasing Caterpillars Triathlon 2020
-6,Rich,Sumrall,M,56,FL,00:57:51.200,86.222,Chasing Caterpillars Triathlon 2020
-7,J.t.,Byrne,M,54,FL,00:59:01.300,84.515,Chasing Caterpillars Triathlon 2020
-8,Mark,Zimmerman,M,59,FL,00:59:59.300,83.153,Chasing Caterpillars Triathlon 2020
-9,Gene,Zweben,M,49,FL,01:00:45.100,82.108,Chasing Caterpillars Triathlon 2020
-10,matthew,raulerson,M,44,FL,01:03:01.600,79.144,Chasing Caterpillars Triathlon 2020
-11,Katie,Silvani,F,29,FL,01:03:22.500,86.58,Chasing Caterpillars Triathlon 2020
-12,Cris,Trebbi,M,48,FL,01:03:38.300,78.384,Chasing Caterpillars Triathlon 2020
-13,Larry,Carter,M,63,ON,01:04:36.200,77.213,Chasing Caterpillars Triathlon 2020
-14,Rich,Storry,M,38,FL,01:04:39.800,77.141,Chasing Caterpillars Triathlon 2020
-15,Jonathan,Carroll,M,38,FL,01:04:51.300,76.913,Chasing Caterpillars Triathlon 2020
-16,Brett,Dugas,M,32,FL,01:05:23.400,76.284,Chasing Caterpillars Triathlon 2020
-17,Fred,Pfister,M,44,FL,01:07:34.300,73.821,Chasing Caterpillars Triathlon 2020
-18,Garett,Ostberg,M,30,FL,01:07:46.800,73.594,Chasing Caterpillars Triathlon 2020
-19,Chris,Fitzsimmons,M,43,FL,01:07:52.200,73.496,Chasing Caterpillars Triathlon 2020
-20,Jennifer,Knowles,F,65,ON,01:08:18.800,80.321,Chasing Caterpillars Triathlon 2020
-1,Keller,Norland,M,17,OR,00:57:24.000,105.594,Tritonman 2020
-2,Bear,Schickel,M,21,CA,00:58:00.000,104.502,Tritonman 2020
-3,John,Dahlz,M,36,CA,00:58:30.000,103.609,Tritonman 2020
-4,Nathan,Cohen,M,22,CA,00:58:52.000,102.963,Tritonman 2020
-5,Garen,Marter,M,23,OR,00:59:08.000,102.499,Tritonman 2020
-6,Ryan,Lund,M,22,CA,00:59:14.000,102.326,Tritonman 2020
-7,Thomas,Sonnery-Cottet,M,22,VA,00:59:19.000,102.182,Tritonman 2020
-8,Benjamin,Hoskins,M,21,CA,00:59:30.000,101.867,Tritonman 2020
-9,Mike,Meehan,M,26,CO,00:59:32.000,101.81,Tritonman 2020
-10,Eddie,Schultz,M,20,CA,00:59:35.000,101.725,Tritonman 2020
-11,Jeevan,Philip,M,25,AZ,01:00:14.000,100.627,Tritonman 2020
-12,Andy,Krueger,M,21,OR,01:00:25.000,100.322,Tritonman 2020
-13,Lauri,Takacsi-Nagy,M,27,CO,01:00:32.000,100.128,Tritonman 2020
-14,Malcolm,Davis,M,21,CA,01:00:46.000,99.744,Tritonman 2020
-15,Cody,Forman,M,25,CA,01:00:49.000,99.662,Tritonman 2020
-16,Isaac,Diaz,M,22,CA,01:00:50.000,99.635,Tritonman 2020
-17,Jose,Gonzalez,M,23,CA,01:00:52.000,99.58,Tritonman 2020
-18,David,Conger,M,23,ID,01:00:53.000,99.553,Tritonman 2020
-19,Jeff,Gautreau,M,25,AZ,01:01:12.000,99.038,Tritonman 2020
-20,Cole,Ridenour,M,19,CA,01:01:16.000,98.93,Tritonman 2020
-1,Steven,Keller,M,35,VA,21:49:16.000,108.112,Ultraman Florida Triathlon
-2,Dede,Griesbauer,F,50,CO,22:48:31.000,113.774,Ultraman Florida Triathlon
-3,Jeff,Fejfar,M,44,FL,23:04:04.000,102.269,Ultraman Florida Triathlon
-4,Phil,Holdcroft,M,41,SC,23:30:03.000,100.385,Ultraman Florida Triathlon
-5,Vasco Rodrigo,Vasconcellos,M,44,Sao Paulo,23:58:21.000,98.41,Ultraman Florida Triathlon
-6,Alejo Yonnatan,Rivas Venegas,M,27,Cundinamarca,24:27:37.000,96.447,Ultraman Florida Triathlon
-7,Stephen,Moore,M,31,ON,24:43:07.000,95.439,Ultraman Florida Triathlon
-8,Daniel,Brostella,M,48,Panama,25:04:42.000,94.07,Ultraman Florida Triathlon
-9,Ryan,Rinear,M,37,FL,25:54:42.000,91.045,Ultraman Florida Triathlon
-10,Cesar,Rodriguez,M,36,Cundinamarca,26:17:24.000,89.735,Ultraman Florida Triathlon
-11,Kiel,Ormerod,M,35,MA,26:19:57.000,89.59,Ultraman Florida Triathlon
-12,Caroline,Bloom,F,36,CO,26:47:45.000,96.845,Ultraman Florida Triathlon
-13,Dan,Mund,M,43,ON,27:08:03.000,86.943,Ultraman Florida Triathlon
-14,Alyson,Watson,F,43,CA,27:22:25.000,94.8,Ultraman Florida Triathlon
-15,Jonas,Johnson,M,38,VA,27:46:44.000,84.925,Ultraman Florida Triathlon
-16,Diogo,Decker,M,31,Paraná,27:51:18.000,84.693,Ultraman Florida Triathlon
-17,Leah,Armstrong,F,41,VA,28:54:33.000,89.766,Ultraman Florida Triathlon
-18,Jessica,Zaiss,F,32,CA,29:09:32.000,88.997,Ultraman Florida Triathlon
-19,Siobhan,Maize,F,49,SC,29:12:52.000,88.827,Ultraman Florida Triathlon
-20,Roman,Gratteri,M,44,OR,30:21:58.000,77.689,Ultraman Florida Triathlon
-1,Dan,Oryall,M,33,WI,00:41:00.000,93.544,Winter Wonderland Triathlon
-2,Quinton,Kneeland,M,20,WI,00:41:17.000,92.902,Winter Wonderland Triathlon
-3,Edward,Hansen,M,19,WI,00:42:06.000,91.099,Winter Wonderland Triathlon
-4,Garrett,Williams,M,23,MN,00:42:12.000,90.884,Winter Wonderland Triathlon
-5,Ian,Bormett,M,20,WI,00:42:21.000,90.562,Winter Wonderland Triathlon
-6,Michael,Braman,M,21,MN,00:42:32.000,90.171,Winter Wonderland Triathlon
-7,David,Braun,M,40,WI,00:42:35.000,90.066,Winter Wonderland Triathlon
-8,Nikolas,Pardoe,M,23,WI,00:43:35.000,87.999,Winter Wonderland Triathlon
-9,Zach,Dahlseng,M,21,WI,00:43:41.000,87.798,Winter Wonderland Triathlon
-10,Michael,Lisle,M,41,WI,00:44:08.000,86.902,Winter Wonderland Triathlon
-11,Ryan,Steger,M,22,WI,00:44:09.000,86.869,Winter Wonderland Triathlon
-12,Sophie,Rabino,F,22,MN,00:44:29.000,94.841,Winter Wonderland Triathlon
-13,Gregory,Shobert,M,19,IL,00:44:39.000,85.897,Winter Wonderland Triathlon
-14,Douglas,Kellner,M,23,WI,00:44:41.000,85.833,Winter Wonderland Triathlon
-15,Anne,Schwarzwalder,F,27,WI,00:44:53.000,93.995,Winter Wonderland Triathlon
-16,Nathan,Mueggenberg,M,23,MN,00:44:57.000,85.323,Winter Wonderland Triathlon
-17,Ethan,Rupp,M,20,PA,00:45:10.000,84.914,Winter Wonderland Triathlon
-18,Miguel,Anselmo,M,22,MN,00:45:21.000,84.571,Winter Wonderland Triathlon
-19,Evelyn,Werking,F,27,WI,00:45:56.000,91.847,Winter Wonderland Triathlon
-20,Lars,Johnson,M,20,WI,00:46:12.000,83.015,Winter Wonderland Triathlon
-1,Ian,Hoover-Grinde,M,22,IA,00:32:00.000,101.799,Tri-owa Indoor Triathlon
-2,Garrett,Williams,M,23,MN,00:34:22.380,94.772,Tri-owa Indoor Triathlon
-3,Wyatt,Mattas,M,21,KS,00:36:03.000,90.363,Tri-owa Indoor Triathlon
-4,Xander,Apponi,M,21,IA,00:36:39.340,88.87,Tri-owa Indoor Triathlon
-5,Benjamin,Leiran,M,21,MN,00:37:29.260,86.897,Tri-owa Indoor Triathlon
-6,Jeff,Lovgren,M,39,KS,00:38:00.680,85.7,Tri-owa Indoor Triathlon
-7,Koki,Takemoto,M,23,KS,00:38:05.000,85.538,Tri-owa Indoor Triathlon
-8,Elijah ,Salas,M,20,KS,00:38:12.340,85.264,Tri-owa Indoor Triathlon
-9,Shaden,Tweeten,M,21,IA,00:38:17.360,85.078,Tri-owa Indoor Triathlon
-10,Scott,Nemec,M,22,IA,00:38:45.060,84.064,Tri-owa Indoor Triathlon
-11,Zack,Wascher,M,21,IL,00:38:55.500,83.689,Tri-owa Indoor Triathlon
-12,Mac,Foley,M,22,KS,00:39:46.200,81.911,Tri-owa Indoor Triathlon
-13,Henry,Holtz,M,22,IL,00:40:06.280,81.227,Tri-owa Indoor Triathlon
-14,Jack,Nagla,M,22,IA,00:40:15.460,80.918,Tri-owa Indoor Triathlon
-15,Jonah,Wagner,M,23,KS,00:41:24.580,78.667,Tri-owa Indoor Triathlon
-16,Tyler,Dennis,M,21,IA,00:41:41.130,78.147,Tri-owa Indoor Triathlon
-17,Jack,Stewart,M,20,IL,00:43:33.700,74.781,Tri-owa Indoor Triathlon
-18,Max,Wascher,M,19,IL,00:43:38.000,74.658,Tri-owa Indoor Triathlon
-19,Andrew,Nguyen,M,20,KS,00:43:54.050,74.203,Tri-owa Indoor Triathlon
-20,Kristina,Swenson,F,23,IA,00:44:12.000,81.071,Tri-owa Indoor Triathlon
-1,Michael,Harris,M,60,NY,01:14:08.749,87.779,"HITS Triathlon Series: Sarasota, FL"
-2,Cody,Angell,M,38,FL,01:15:03.387,86.714,"HITS Triathlon Series: Sarasota, FL"
-3,Wyatt,Campbell,M,21,FL,01:15:58.970,85.656,"HITS Triathlon Series: Sarasota, FL"
-4,Corey,Steimel,M,35,CO,01:16:43.670,84.825,"HITS Triathlon Series: Sarasota, FL"
-5,Blake,Riley,M,23,FL,01:17:04.819,84.437,"HITS Triathlon Series: Sarasota, FL"
-6,Scott,Nemec,M,22,IL,01:17:05.492,84.425,"HITS Triathlon Series: Sarasota, FL"
-7,Dirk,Van Doren,M,61,FL,01:19:07.969,82.247,"HITS Triathlon Series: Sarasota, FL"
-8,Jeremy,White,M,41,FL,01:20:01.390,81.332,"HITS Triathlon Series: Sarasota, FL"
-9,Mike,Kaufman,M,54,FL,01:20:58.713,80.372,"HITS Triathlon Series: Sarasota, FL"
-10,Brawley,Adams,M,28,FL,01:22:36.139,78.792,"HITS Triathlon Series: Sarasota, FL"
-11,Kim,Albin,F,47,MI,01:22:59.550,86.264,"HITS Triathlon Series: Sarasota, FL"
-12,Alexander,Mostovych,M,23,FL,01:23:00.057,78.414,"HITS Triathlon Series: Sarasota, FL"
-13,Jaime,Wohl,F,41,FL,01:23:22.490,85.868,"HITS Triathlon Series: Sarasota, FL"
-14,Matthew,Frommelt,M,36,FL,01:23:30.219,77.942,"HITS Triathlon Series: Sarasota, FL"
-15,John,Slocum,M,58,FL,01:23:33.890,77.885,"HITS Triathlon Series: Sarasota, FL"
-16,Jason,Blackman,M,36,FL,01:23:43.745,77.732,"HITS Triathlon Series: Sarasota, FL"
-17,Katie,Hammond,F,35,FL,01:24:08.040,85.094,"HITS Triathlon Series: Sarasota, FL"
-18,Mateus,Arruda,M,33,FL,01:24:25.790,77.087,"HITS Triathlon Series: Sarasota, FL"
-19,Hunter,Carey,M,21,IA,01:25:26.741,76.17,"HITS Triathlon Series: Sarasota, FL"
-20,Doerte,Fehseehlert,F,50,0,01:25:30.953,83.719,"HITS Triathlon Series: Sarasota, FL"
+Rank,First_Name,Last_Name,Sex,Age,State,Time,Points,Race
+1,Michael,Alexander,M,50-60,FL,01:02:29.000,87.912,Bartow Blarney Triathlon
+2,Mark,Hulbert,M,50-60,FL,01:04:06.000,85.695,Bartow Blarney Triathlon
+3,Brian,Durden,M,30-40,FL,01:05:30.000,83.863,Bartow Blarney Triathlon
+4,Rodney,Carter,M,40-50,FL,01:05:54.000,83.354,Bartow Blarney Triathlon
+5,James,Hooppaw,M,20-30,FL,01:06:10.000,83.018,Bartow Blarney Triathlon
+6,Alexander,Williams,M,30-40,FL,01:06:31.000,82.582,Bartow Blarney Triathlon
+7,Benjamin,Peacock,M,20-30,FL,01:07:12.000,81.742,Bartow Blarney Triathlon
+8,Joel,Radd,M,30-40,FL,01:08:02.000,80.741,Bartow Blarney Triathlon
+9,KC,Wilson,M,20-30,FL,01:09:14.000,79.341,Bartow Blarney Triathlon
+10,Andrew,Martin,M,40-50,FL,01:11:41.000,76.63,Bartow Blarney Triathlon
+11,David,Giles,M,50-60,FL,01:11:57.000,76.345,Bartow Blarney Triathlon
+12,Kristin,Coker,F,30-40,FL,01:12:12.000,83.689,Bartow Blarney Triathlon
+13,Peter,Boncelet,M,60-70,FL,01:13:27.000,74.786,Bartow Blarney Triathlon
+14,Nicole,Brown,F,40-50,FL,01:13:50.000,81.838,Bartow Blarney Triathlon
+15,Dennis,Thompson,M,60-70,FL,01:13:55.000,74.314,Bartow Blarney Triathlon
+16,alejandro,caribas,M,40-50,FL,01:14:06.000,74.13,Bartow Blarney Triathlon
+17,Sean,Brown,M,40-50,FL,01:14:49.000,73.42,Bartow Blarney Triathlon
+18,Dylan,St. Ours,M,20-30,FL,01:15:04.000,73.176,Bartow Blarney Triathlon
+19,Kathy,Ritchie,F,30-40,FL,01:15:23.000,80.155,Bartow Blarney Triathlon
+20,Patty,Schmaedeke,F,50-60,FL,01:17:03.000,78.421,Bartow Blarney Triathlon
+1,Benjamin,Hartell,M,30-40,FL,00:52:59.000,83.921,College of the Florida Keys Sprint Triathlon/Biathlon
+2,John,Wile,M,30-40,FL,00:54:46.000,81.189,College of the Florida Keys Sprint Triathlon/Biathlon
+3,Barton,Smith,M,40-50,FL,00:56:26.000,78.791,College of the Florida Keys Sprint Triathlon/Biathlon
+4,Matthew,Weber,M,20-30,GA,00:57:00.000,78.008,College of the Florida Keys Sprint Triathlon/Biathlon
+5,Ericka,Stokes,F,30-40,FL,01:01:05.000,80.072,College of the Florida Keys Sprint Triathlon/Biathlon
+6,Joseph,Crispino,M,50-60,NY,01:04:25.000,69.026,College of the Florida Keys Sprint Triathlon/Biathlon
+7,Steven,Jaroszewski,M,60-70,FL,01:04:29.000,68.955,College of the Florida Keys Sprint Triathlon/Biathlon
+8,Michael,Sutter,M,40-50,IN,01:05:50.000,67.541,College of the Florida Keys Sprint Triathlon/Biathlon
+9,Nicholas,Tamble,M,40-50,MN,01:08:26.000,64.975,College of the Florida Keys Sprint Triathlon/Biathlon
+10,Savannah,Young,F,20-30,GA,01:10:20.000,69.541,College of the Florida Keys Sprint Triathlon/Biathlon
+11,Casey,Hartell,F,30-40,VA,01:12:42.000,67.277,College of the Florida Keys Sprint Triathlon/Biathlon
+12,Alice,Watrobka,F,60-70,IL,01:18:25.000,62.373,College of the Florida Keys Sprint Triathlon/Biathlon
+13,Makayla,Bullard,F,20-30,FL,01:22:17.000,59.442,College of the Florida Keys Sprint Triathlon/Biathlon
+14,Brian,Woodford,M,40-50,FL,01:25:16.000,52.147,College of the Florida Keys Sprint Triathlon/Biathlon
+15,Webb,Moore,M,60-70,VA,01:30:49.000,48.961,College of the Florida Keys Sprint Triathlon/Biathlon
+16,Melissa,Wagner,F,50-60,TN,01:39:52.000,48.976,College of the Florida Keys Sprint Triathlon/Biathlon
+17,Mickayla,Woodford,F,0-10,FL,01:51:57.000,43.69,College of the Florida Keys Sprint Triathlon/Biathlon
+18,Micki,Woodford,F,40-50,FL,01:52:14.000,43.58,College of the Florida Keys Sprint Triathlon/Biathlon
+1,Dawn,Fontana,F,40-50,FL,15:07:39.000,95.357,Florida Ultra Week
+2,Matthew,Weathers,M,30-40,SC,16:00:29.000,81.919,Florida Ultra Week
+3,Rick,Shea,M,40-50,FL,16:12:39.000,80.895,Florida Ultra Week
+4,Brad,Baker,M,30-40,PA,16:54:49.000,77.533,Florida Ultra Week
+5,Chelsea,Shea,F,40-50,FL,17:10:20.000,84.003,Florida Ultra Week
+6,Karen,Alexeev,F,60-70,FL,17:24:00.000,82.903,Florida Ultra Week
+7,Sandra,Marino,F,50-60,FL,17:34:36.000,82.07,Florida Ultra Week
+8,Adelaida,Bereijo,F,50-60,FL,28:30:50.000,50.59,Florida Ultra Week
+9,Sebastain,Golod,M,40-50,FL,DNF,,Florida Ultra Week
+1,Zack,Goodman,M,20-30,MD,01:03:05.000,100.387,UCSB Kendra's Race Triathlon
+2,Dustin,Duncan,M,10-20,CA,01:04:02.000,98.897,UCSB Kendra's Race Triathlon
+3,Jake,Tennant,M,20-30,CA,01:04:36.000,98.03,UCSB Kendra's Race Triathlon
+4,Mark,Hermes,M,20-30,CA,01:05:19.000,96.954,UCSB Kendra's Race Triathlon
+5,Calum,Rickard,M,20-30,CA,01:05:58.000,95.999,UCSB Kendra's Race Triathlon
+6,Kyle,Visin,M,30-40,CA,01:06:21.000,95.444,UCSB Kendra's Race Triathlon
+7,Joey,Costello,M,20-30,MI,01:06:45.000,94.872,UCSB Kendra's Race Triathlon
+8,Paul,Lathrop,M,20-30,MD,01:07:22.000,94.004,UCSB Kendra's Race Triathlon
+9,Robby,Dorn,M,20-30,MN,01:08:27.000,92.516,UCSB Kendra's Race Triathlon
+10,Gregory,Aitken,M,20-30,CA,01:08:58.000,91.823,UCSB Kendra's Race Triathlon
+11,Jesse,Holt,M,20-30,CA,01:09:15.000,91.447,UCSB Kendra's Race Triathlon
+12,Rory,Runser,M,20-30,CA,01:09:18.000,91.381,UCSB Kendra's Race Triathlon
+13,Eric,Wayman,M,20-30,CA,01:09:24.000,91.25,UCSB Kendra's Race Triathlon
+14,ALBERTO,CARRENO,M,20-30,CA,01:09:32.000,91.075,UCSB Kendra's Race Triathlon
+15,Bradley,Rava,M,20-30,CA,01:10:45.000,89.509,UCSB Kendra's Race Triathlon
+16,Beril,Polat,F,20-30,CA,01:11:03.000,98.044,UCSB Kendra's Race Triathlon
+17,Eric,Ingrande,M,10-20,CA,01:11:03.000,89.131,UCSB Kendra's Race Triathlon
+18,Dario,Urbina Melendez,M,20-30,CA,01:11:10.000,88.984,UCSB Kendra's Race Triathlon
+19,Alexander,Bosch,M,20-30,CA,01:11:24.000,88.694,UCSB Kendra's Race Triathlon
+20,Elena,Galbally,F,20-30,CA,01:11:36.000,97.291,UCSB Kendra's Race Triathlon
+1,John ,Reback,M,40-50,FL,00:54:55.000,99.617,Las Olas Fort Lauderdale Triathlon
+2,javier,morales,M,30-40,fl,00:54:57.000,99.557,Las Olas Fort Lauderdale Triathlon
+3,Roughan ,Gaetz,M,10-20,NL,00:55:28.000,98.629,Las Olas Fort Lauderdale Triathlon
+4,Rodrigo,Teixeira de Abreu,M,40-50,FL,00:57:07.000,95.78,Las Olas Fort Lauderdale Triathlon
+5,Carla,Moreno,F,40-50,FL,00:58:36.000,102.692,Las Olas Fort Lauderdale Triathlon
+6,Eduardo,Figueiredo,M,40-50,FL,00:59:36.000,91.789,Las Olas Fort Lauderdale Triathlon
+7,Jasmel,Acosta,M,30-40,FL,00:59:48.000,91.482,Las Olas Fort Lauderdale Triathlon
+8,wilman,santa cruz,M,40-50,FL,00:59:57.000,91.254,Las Olas Fort Lauderdale Triathlon
+9,Ragnar,Mendez,M,30-40,FL,00:59:59.000,91.203,Las Olas Fort Lauderdale Triathlon
+10,Gabriel,Zimeri,M,20-30,FL,01:00:15.000,90.799,Las Olas Fort Lauderdale Triathlon
+11,Kayla,Pokorny,F,30-40,FL,01:00:35.000,99.33,Las Olas Fort Lauderdale Triathlon
+12,IDALMIS,PEDRERO,F,40-50,FL,01:00:35.000,99.33,Las Olas Fort Lauderdale Triathlon
+13,Flavio,Jose,M,40-50,FL,01:01:30.000,88.954,Las Olas Fort Lauderdale Triathlon
+14,Justin,Griffee,M,40-50,FL,01:01:54.000,88.379,Las Olas Fort Lauderdale Triathlon
+15,IVONNE,PEDRERO,F,40-50,FL,01:02:02.000,97.008,Las Olas Fort Lauderdale Triathlon
+16,Taylor,Marks,M,20-30,FL,01:02:17.000,87.835,Las Olas Fort Lauderdale Triathlon
+17,Carlos,Dolabella,M,50-60,FL,01:03:12.000,86.561,Las Olas Fort Lauderdale Triathlon
+18,josue ,lain velilla,M,40-50,fl,01:03:18.000,86.424,Las Olas Fort Lauderdale Triathlon
+19,Tiago,Choze,M,30-40,FL,01:03:27.000,86.22,Las Olas Fort Lauderdale Triathlon
+20,Albert,Iglesias,M,20-30,FL,01:03:44.000,85.837,Las Olas Fort Lauderdale Triathlon
+1,Tony,Macias,M,30-40,CA,00:49:25.000,93.882,Pasadena Triathlon 2020
+2,Hudson,Billock,M,10-20,CA,00:50:45.000,91.415,Pasadena Triathlon 2020
+3,Ryan,Cosner,M,20-30,CA,00:52:52.000,87.755,Pasadena Triathlon 2020
+4,SCOTT,REESER,M,40-50,CA,00:53:57.000,85.993,Pasadena Triathlon 2020
+5,Schuyler,Mastain,M,30-40,CA,00:53:58.000,85.966,Pasadena Triathlon 2020
+6,Ryan,Schneider,M,40-50,CA,00:54:20.000,85.386,Pasadena Triathlon 2020
+7,Mark,Strauss,M,50-60,CA,00:54:23.000,85.308,Pasadena Triathlon 2020
+8,Michael,Kezian,M,30-40,CA,00:54:58.000,84.402,Pasadena Triathlon 2020
+9,Jack,Nunn,M,40-50,CA,00:55:27.000,83.667,Pasadena Triathlon 2020
+10,Josh,Lustyan,M,30-40,CA,00:55:33.000,83.516,Pasadena Triathlon 2020
+11,Jeff,Slezak,M,40-50,CA,00:56:08.000,82.648,Pasadena Triathlon 2020
+12,Paul,Ferraro,M,40-50,NV,00:57:04.000,81.296,Pasadena Triathlon 2020
+13,TOM,RUTHERFORD,M,50-60,CA,00:57:11.000,81.131,Pasadena Triathlon 2020
+14,Zachary,Foster,M,30-40,CA,00:57:18.000,80.965,Pasadena Triathlon 2020
+15,Les,Shibata,M,60-70,CA,00:57:34.000,80.59,Pasadena Triathlon 2020
+16,Justin,Tolentino,M,30-40,CA,00:57:37.000,80.52,Pasadena Triathlon 2020
+17,Ren,Tong,M,30-40,CA,00:58:01.000,79.965,Pasadena Triathlon 2020
+18,Aaron,Sharp,M,10-20,CA,00:58:05.000,79.874,Pasadena Triathlon 2020
+19,Dean,Critel,M,50-60,CA,00:58:37.000,79.147,Pasadena Triathlon 2020
+20,Erika,Lilley,F,40-50,CA,00:58:53.000,86.667,Pasadena Triathlon 2020
+1,Josh,EATON,M,30-40,FL,01:01:29.900,100.41,Clermont Draft Legal Challenge 
+2,Lee,RANTALA,M,40-50,ON,01:01:51.100,99.836,Clermont Draft Legal Challenge 
+3,Jason,MCCORMACK,M,30-40,SC,01:02:06.900,99.413,Clermont Draft Legal Challenge 
+4,Robert,VAN KIRK,M,20-30,OH,01:02:28.100,98.85,Clermont Draft Legal Challenge 
+5,Jeremy,LAJOIE,M,10-20,QC,01:03:09.400,97.773,Clermont Draft Legal Challenge 
+6,Roman,FEDOSIEIEV,M,20-30,NY,01:03:24.200,97.393,Clermont Draft Legal Challenge 
+7,Oliver,PORTER,M,20-30,NC,01:03:24.900,97.375,Clermont Draft Legal Challenge 
+8,Cole,RANDOLPH,M,10-20,MD,01:04:46.900,95.32,Clermont Draft Legal Challenge 
+9,John,ANTHONY,M,40-50,CT,01:04:49.800,95.249,Clermont Draft Legal Challenge 
+10,Jonathan,RODRIGUEZ,M,30-40,FL,01:05:50.400,93.788,Clermont Draft Legal Challenge 
+11,Jiachao,WANG,M,20-30,,01:06:27.700,92.911,Clermont Draft Legal Challenge 
+12,Craig,KIVISTO,M,30-40,ON,01:06:35.500,92.729,Clermont Draft Legal Challenge 
+13,Patrick,SIROIS,M,40-50,FL,01:06:39.700,92.632,Clermont Draft Legal Challenge 
+14,Corey,STEIMEL,M,30-40,CO,01:06:46.200,92.482,Clermont Draft Legal Challenge 
+15,Todd,Shellenberger,M,50-60,IN,01:07:15.500,91.81,Clermont Draft Legal Challenge 
+16,Ryan,KNOPFLE,M,30-40,FL,01:07:46.700,91.106,Clermont Draft Legal Challenge 
+17,William,DOLAN,M,20-30,VA,01:07:57.200,90.871,Clermont Draft Legal Challenge 
+18,Amira,FAULKNER,F,10-20,OH,01:08:48.000,98.728,Clermont Draft Legal Challenge 
+19,Ryan,LINDLEY,M,10-20,VA,01:08:59.600,89.502,Clermont Draft Legal Challenge 
+20,Emma,MACDONALD,F,10-20,NY,01:10:52.400,95.841,Clermont Draft Legal Challenge 
+1,Jonathan,McKinley,M,20-30,CA,00:55:13.900,104.398,Stanford Treeathlon
+2,Bear,Schickel,M,20-30,CA,00:55:21.800,104.15,Stanford Treeathlon
+3,Mark,Schefter,M,20-30,CA,00:56:53.400,101.355,Stanford Treeathlon
+4,Shawn,Forer,M,20-30,CA,00:57:32.700,100.202,Stanford Treeathlon
+5,Stephen,Sloan,M,20-30,CA,00:58:26.900,98.653,Stanford Treeathlon
+6,Tom,Robey,M,20-30,CA,00:58:45.500,98.133,Stanford Treeathlon
+7,Jonas,Jimenez,M,20-30,CA,00:59:59.500,96.115,Stanford Treeathlon
+8,Jake,Tennant,M,20-30,CA,01:00:19.600,95.581,Stanford Treeathlon
+9,Alex,Buckley,M,20-30,CA,01:00:19.800,95.576,Stanford Treeathlon
+10,Franklin,Rice,M,20-30,CA,01:00:39.100,95.069,Stanford Treeathlon
+11,Grant,Grafentin,M,20-30,CA,01:01:19.300,94.03,Stanford Treeathlon
+12,Michael,Reese,M,20-30,CO,01:01:41.100,93.477,Stanford Treeathlon
+13,Sam,Blakewell,M,10-20,CA,01:01:54.800,93.132,Stanford Treeathlon
+14,Noah,Shlesinger,M,20-30,OR,01:02:02.100,92.949,Stanford Treeathlon
+15,Mason,Johnson,M,10-20,CA,01:02:23.300,92.423,Stanford Treeathlon
+16,Eric,Wayman,M,20-30,CA,01:04:04.200,89.997,Stanford Treeathlon
+17,Kyle,Rentschler,M,20-30,CA,01:04:04.300,89.994,Stanford Treeathlon
+18,Brendan,Deas,M,20-30,CA,01:04:20.500,89.617,Stanford Treeathlon
+19,Joey,Llewellyn,M,20-30,CA,01:04:54.600,88.832,Stanford Treeathlon
+20,Nicole,Collins,F,10-20,CA,01:05:10.300,97.324,Stanford Treeathlon
+1,CHARLIE,BOEYINK,M,40-50,AZ,02:30:53.920,92.145,3rd Annual Tri-Family Racing Lake Pleasant 
+2,WILLIAM,OWSLEY,M,50-60,AZ,02:31:38.470,91.694,3rd Annual Tri-Family Racing Lake Pleasant 
+3,ARA,PARSEGHIAN,M,30-40,AZ,02:31:46.210,91.616,3rd Annual Tri-Family Racing Lake Pleasant 
+4,ANDREW,MALLY,M,30-40,AZ,02:36:47.420,88.682,3rd Annual Tri-Family Racing Lake Pleasant 
+5,JAMES,MAMARIL-DAVIS,M,20-30,AZ,02:43:00.730,85.298,3rd Annual Tri-Family Racing Lake Pleasant 
+6,CHARLIE,REED,M,20-30,MI,02:45:11.390,84.173,3rd Annual Tri-Family Racing Lake Pleasant 
+7,SAM,GADZICHOWSKI,M,40-50,AZ,02:46:11.350,83.667,3rd Annual Tri-Family Racing Lake Pleasant 
+8,DAVID,EDWARDS,M,30-40,AZ,02:49:05.370,82.232,3rd Annual Tri-Family Racing Lake Pleasant 
+9,SHANNON,TREEN,F,30-40,AZ,02:54:45.560,87.52,3rd Annual Tri-Family Racing Lake Pleasant 
+10,ANDREW,ROERICK,M,20-30,NM,02:55:26.660,79.253,3rd Annual Tri-Family Racing Lake Pleasant 
+11,ANN,ATKINSON,F,30-40,AZ,02:57:24.750,86.211,3rd Annual Tri-Family Racing Lake Pleasant 
+12,PATRICK,FISHER,M,40-50,AZ,03:00:03.580,77.222,3rd Annual Tri-Family Racing Lake Pleasant 
+13,ASA,HOLLY,M,30-40,AZ,03:01:21.560,76.668,3rd Annual Tri-Family Racing Lake Pleasant 
+14,TODD,LEONARD,M,40-50,AZ,03:01:34.520,76.577,3rd Annual Tri-Family Racing Lake Pleasant 
+15,MIKE,PARKINS,M,40-50,AZ,03:04:46.080,75.254,3rd Annual Tri-Family Racing Lake Pleasant 
+16,CHRISTOPHER,SMITH,M,30-40,AZ,03:06:13.680,74.664,3rd Annual Tri-Family Racing Lake Pleasant 
+17,KRISTA,EDWARDS,F,30-40,AZ,03:07:04.420,81.76,3rd Annual Tri-Family Racing Lake Pleasant 
+18,CHAD,BUCK,M,40-50,AZ,03:08:33.110,73.744,3rd Annual Tri-Family Racing Lake Pleasant 
+19,Michael,Tucker,M,50-60,AZ,03:11:50.670,72.478,3rd Annual Tri-Family Racing Lake Pleasant 
+20,PETER,BAUMAN,M,30-40,AZ,03:12:08.230,72.368,3rd Annual Tri-Family Racing Lake Pleasant 
+1,Justin,Morrison,M,30-40,AZ,01:05:25.800,92.354,Desert Triathlon
+2,Gregory,Strausberg,M,30-40,CA,01:08:19.070,88.45,Desert Triathlon
+3,Bill,Whitman,M,50-60,CA,01:10:29.220,85.728,Desert Triathlon
+4,Sam,Kosters,M,30-40,CA,01:11:25.500,84.603,Desert Triathlon
+5,brandon,estrella,M,30-40,CA,01:11:28.020,84.553,Desert Triathlon
+6,Jeremy,Withrow,M,40-50,CA,01:11:35.610,84.403,Desert Triathlon
+7,David,Whalley,M,30-40,CA,01:12:56.690,82.84,Desert Triathlon
+8,Daniel,Flanagan,M,20-30,CA,01:13:17.320,82.451,Desert Triathlon
+9,David,Marsh,M,60-70,CA,01:14:03.410,81.596,Desert Triathlon
+10,Devin,Watson,M,20-30,CA,01:14:16.200,81.362,Desert Triathlon
+11,Jorge,De la Torre,M,20-30,CA,01:14:38.790,80.951,Desert Triathlon
+12,Sherri,Ellerby,F,50-60,CA,01:14:40.630,89.01,Desert Triathlon
+13,Gabriel,Filkey,M,40-50,CA,01:15:26.700,80.095,Desert Triathlon
+14,khaled,alghannam,M,10-20,CA,01:15:28.390,80.065,Desert Triathlon
+15,James,Daichendt,M,40-50,CA,01:15:32.010,80.001,Desert Triathlon
+16,Marie,Town,F,30-40,CA,01:15:33.790,87.966,Desert Triathlon
+17,CHELSEA E.,VanCott,F,20-30,CA,01:15:38.570,87.874,Desert Triathlon
+18,Anthony,Chinchillas,M,50-60,CA,01:15:42.860,79.81,Desert Triathlon
+19,renee,milton,F,50-60,CA,01:16:10.380,87.262,Desert Triathlon
+20,Robert,Kinney,M,60-70,CA,01:16:18.430,79.19,Desert Triathlon
+1,CARL,NEWTON,M,30-40,AZ,01:08:39.000,99.753,Iceman Triathlon
+2,MICHAEL,DUNN,M,30-40,AZ,01:11:33.000,95.71,Iceman Triathlon
+3,SAMUEL,KOHLL,M,20-30,NE,01:12:41.000,94.217,Iceman Triathlon
+4,CARL,ZAPFE,M,20-30,AZ,01:13:51.000,92.729,Iceman Triathlon
+5,JOHN,POISSON,M,50-60,AZ,01:17:13.000,88.686,Iceman Triathlon
+6,DAVID,MCHALE,M,50-60,AZ,01:17:27.000,88.419,Iceman Triathlon
+7,VICTOR,GARCIA,M,20-30,AZ,01:17:39.000,88.191,Iceman Triathlon
+8,TRAVIS,GRIM,M,30-40,AZ,01:20:45.000,84.805,Iceman Triathlon
+9,JERRY,KIBBY,M,40-50,AZ,01:21:06.000,84.439,Iceman Triathlon
+10,DYLAN,KENNEDY,M,40-50,AZ,01:21:33.000,83.973,Iceman Triathlon
+11,PAUL,JELINEK,M,40-50,AZ,01:22:29.000,83.023,Iceman Triathlon
+12,MEGAN,NEWTON,F,30-40,AZ,01:22:52.000,90.903,Iceman Triathlon
+13,BRIAN,CONWAY,M,40-50,AZ,01:23:32.000,81.98,Iceman Triathlon
+14,JOHNQ,ELLIS,M,50-60,AZ,01:24:21.000,81.186,Iceman Triathlon
+15,WADE,GROW,M,50-60,AZ,01:24:33.000,80.994,Iceman Triathlon
+16,JONATHAN,BOYD,M,30-40,AZ,01:24:54.000,80.66,Iceman Triathlon
+17,SARAH,BYERS,F,30-40,AZ,01:25:45.000,87.846,Iceman Triathlon
+18,JOEY,RUSNAK,M,10-20,AZ,01:25:54.000,79.721,Iceman Triathlon
+19,JEREMY,MARCY,M,40-50,AZ,01:26:12.000,79.443,Iceman Triathlon
+20,Erik,Larson,M,40-50,AZ,01:26:58.000,78.743,Iceman Triathlon
+1,Grayson,Stinger,M,10-20,KY,00:33:10.300,92.72,Shelbyville Triathlon Series Race #1
+2,Gregory,Garcia,M,40-50,KY,00:34:09.300,90.051,Shelbyville Triathlon Series Race #1
+3,Chris,Estes,M,40-50,KY,00:34:42.500,88.615,Shelbyville Triathlon Series Race #1
+4,Austin,Schaffner,M,20-30,KY,00:35:40.300,86.222,Shelbyville Triathlon Series Race #1
+5,Clay,Jones,M,50-60,KY,00:36:00.600,85.412,Shelbyville Triathlon Series Race #1
+6,Jack,Zink,M,20-30,KS,00:36:01.800,85.364,Shelbyville Triathlon Series Race #1
+7,Lewis,Jackson,M,30-40,KY,00:36:43.600,83.745,Shelbyville Triathlon Series Race #1
+8,Jeremy,Rowlette,M,30-40,KY,00:37:27.800,82.098,Shelbyville Triathlon Series Race #1
+9,Zachary,Bell,M,20-30,KY,00:38:36.000,79.681,Shelbyville Triathlon Series Race #1
+10,Alec,Meszaros,M,20-30,OH,00:38:40.800,79.516,Shelbyville Triathlon Series Race #1
+11,Lisle,Adams,M,30-40,KY,00:39:18.000,78.262,Shelbyville Triathlon Series Race #1
+12,John,Marcum,M,20-30,KY,00:39:56.900,76.991,Shelbyville Triathlon Series Race #1
+13,Charles,Fell,M,50-60,KY,00:39:58.200,76.95,Shelbyville Triathlon Series Race #1
+14,Ryan,Piazza,M,10-20,KY,00:40:02.900,76.799,Shelbyville Triathlon Series Race #1
+15,Miller,Gimbe,M,10-20,,00:40:23.000,76.162,Shelbyville Triathlon Series Race #1
+16,John,Cioci,M,40-50,KY,00:40:23.200,76.156,Shelbyville Triathlon Series Race #1
+17,Dallas,Harshfield,M,40-50,KY,00:40:33.800,75.824,Shelbyville Triathlon Series Race #1
+18,Leon,Sachs,M,50-60,KY,00:41:07.400,74.792,Shelbyville Triathlon Series Race #1
+19,Jeffrey,Benton,M,40-50,KY,00:41:11.500,74.667,Shelbyville Triathlon Series Race #1
+20,Darren,Cobbum,M,40-50,IN,00:41:16.900,74.505,Shelbyville Triathlon Series Race #1
+1,Josh,Powers,M,10-20,FL,02:05:50.000,101.41,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
+2,Martin,Paez,M,30-40,FL,02:11:39.000,96.93,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
+3,Bernie,Perez,M,40-50,FL,02:14:28.000,94.899,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
+4,Francisco,Soler,M,30-40,FL,02:14:31.000,94.864,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
+5,Bolko,De Pawlikowski,M,50-60,FL,02:15:54.000,93.898,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
+6,Oscar,Nino,M,30-40,,02:16:52.000,93.235,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
+7,Miguel Angel,Pippo,M,40-50,FL,02:18:11.000,92.347,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
+8,Jennifer,Vogel,F,30-40,FL,02:22:09.000,98.747,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
+9,Clebert,Duarte Mattos,M,40-50,FL,02:27:36.000,86.455,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
+10,Elizabeth,Ferrer,F,20-30,FL,02:28:22.000,94.61,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
+11,Javier,Torres,M,30-40,FL,02:29:15.000,85.499,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
+12,Esi,Shabani,M,40-50,FL,02:30:09.000,84.987,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
+13,Gabriel,Benitez,M,40-50,FL,02:30:49.000,84.611,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
+14,Matteo,Rossi,M,50-60,FL,02:31:46.000,84.082,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
+15,Brad,Moss,M,30-40,FL,02:31:56.000,83.989,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
+16,Devin,Patterson,M,30-40,FL,02:32:53.000,83.468,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
+17,Julia,Fermayer,F,40-50,FL,02:36:25.000,89.74,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
+18,Parker,Poliakoff,M,20-30,FL,02:38:15.000,80.637,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
+19,Brad,Giardino,M,30-40,NY,02:39:09.000,80.181,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
+20,Joy,Braun,F,40-50,FL,02:39:12.000,88.172,Huntington's Disease Triathlon Sprint and Olympic - Racing 4 Research To Find a Cure
+1,Kurt,Barnhill,M,30-40,FL,00:52:44.000,94.593,Chasing Caterpillars Triathlon 2020
+2,Jeff,Fairbanks,M,40-50,GA,00:54:22.900,91.726,Chasing Caterpillars Triathlon 2020
+3,Neal,MacLean,M,40-50,FL,00:55:06.900,90.505,Chasing Caterpillars Triathlon 2020
+4,Ryan,Degregorio,M,20-30,NJ,00:56:18.600,88.585,Chasing Caterpillars Triathlon 2020
+5,Bryan,Liles,M,40-50,FL,00:57:24.700,86.885,Chasing Caterpillars Triathlon 2020
+6,Rich,Sumrall,M,50-60,FL,00:57:51.200,86.222,Chasing Caterpillars Triathlon 2020
+7,J.t.,Byrne,M,50-60,FL,00:59:01.300,84.515,Chasing Caterpillars Triathlon 2020
+8,Mark,Zimmerman,M,50-60,FL,00:59:59.300,83.153,Chasing Caterpillars Triathlon 2020
+9,Gene,Zweben,M,40-50,FL,01:00:45.100,82.108,Chasing Caterpillars Triathlon 2020
+10,matthew,raulerson,M,40-50,FL,01:03:01.600,79.144,Chasing Caterpillars Triathlon 2020
+11,Katie,Silvani,F,20-30,FL,01:03:22.500,86.58,Chasing Caterpillars Triathlon 2020
+12,Cris,Trebbi,M,40-50,FL,01:03:38.300,78.384,Chasing Caterpillars Triathlon 2020
+13,Larry,Carter,M,60-70,ON,01:04:36.200,77.213,Chasing Caterpillars Triathlon 2020
+14,Rich,Storry,M,30-40,FL,01:04:39.800,77.141,Chasing Caterpillars Triathlon 2020
+15,Jonathan,Carroll,M,30-40,FL,01:04:51.300,76.913,Chasing Caterpillars Triathlon 2020
+16,Brett,Dugas,M,30-40,FL,01:05:23.400,76.284,Chasing Caterpillars Triathlon 2020
+17,Fred,Pfister,M,40-50,FL,01:07:34.300,73.821,Chasing Caterpillars Triathlon 2020
+18,Garett,Ostberg,M,20-30,FL,01:07:46.800,73.594,Chasing Caterpillars Triathlon 2020
+19,Chris,Fitzsimmons,M,40-50,FL,01:07:52.200,73.496,Chasing Caterpillars Triathlon 2020
+20,Jennifer,Knowles,F,60-70,ON,01:08:18.800,80.321,Chasing Caterpillars Triathlon 2020
+1,Keller,Norland,M,10-20,OR,00:57:24.000,105.594,Tritonman 2020
+2,Bear,Schickel,M,20-30,CA,00:58:00.000,104.502,Tritonman 2020
+3,John,Dahlz,M,30-40,CA,00:58:30.000,103.609,Tritonman 2020
+4,Nathan,Cohen,M,20-30,CA,00:58:52.000,102.963,Tritonman 2020
+5,Garen,Marter,M,20-30,OR,00:59:08.000,102.499,Tritonman 2020
+6,Ryan,Lund,M,20-30,CA,00:59:14.000,102.326,Tritonman 2020
+7,Thomas,Sonnery-Cottet,M,20-30,VA,00:59:19.000,102.182,Tritonman 2020
+8,Benjamin,Hoskins,M,20-30,CA,00:59:30.000,101.867,Tritonman 2020
+9,Mike,Meehan,M,20-30,CO,00:59:32.000,101.81,Tritonman 2020
+10,Eddie,Schultz,M,10-20,CA,00:59:35.000,101.725,Tritonman 2020
+11,Jeevan,Philip,M,20-30,AZ,01:00:14.000,100.627,Tritonman 2020
+12,Andy,Krueger,M,20-30,OR,01:00:25.000,100.322,Tritonman 2020
+13,Lauri,Takacsi-Nagy,M,20-30,CO,01:00:32.000,100.128,Tritonman 2020
+14,Malcolm,Davis,M,20-30,CA,01:00:46.000,99.744,Tritonman 2020
+15,Cody,Forman,M,20-30,CA,01:00:49.000,99.662,Tritonman 2020
+16,Isaac,Diaz,M,20-30,CA,01:00:50.000,99.635,Tritonman 2020
+17,Jose,Gonzalez,M,20-30,CA,01:00:52.000,99.58,Tritonman 2020
+18,David,Conger,M,20-30,ID,01:00:53.000,99.553,Tritonman 2020
+19,Jeff,Gautreau,M,20-30,AZ,01:01:12.000,99.038,Tritonman 2020
+20,Cole,Ridenour,M,10-20,CA,01:01:16.000,98.93,Tritonman 2020
+1,Steven,Keller,M,30-40,VA,21:49:16.000,108.112,Ultraman Florida Triathlon
+2,Dede,Griesbauer,F,40-50,CO,22:48:31.000,113.774,Ultraman Florida Triathlon
+3,Jeff,Fejfar,M,40-50,FL,23:04:04.000,102.269,Ultraman Florida Triathlon
+4,Phil,Holdcroft,M,40-50,SC,23:30:03.000,100.385,Ultraman Florida Triathlon
+5,Vasco Rodrigo,Vasconcellos,M,40-50,Sao Paulo,23:58:21.000,98.41,Ultraman Florida Triathlon
+6,Alejo Yonnatan,Rivas Venegas,M,20-30,Cundinamarca,24:27:37.000,96.447,Ultraman Florida Triathlon
+7,Stephen,Moore,M,30-40,ON,24:43:07.000,95.439,Ultraman Florida Triathlon
+8,Daniel,Brostella,M,40-50,Panama,25:04:42.000,94.07,Ultraman Florida Triathlon
+9,Ryan,Rinear,M,30-40,FL,25:54:42.000,91.045,Ultraman Florida Triathlon
+10,Cesar,Rodriguez,M,30-40,Cundinamarca,26:17:24.000,89.735,Ultraman Florida Triathlon
+11,Kiel,Ormerod,M,30-40,MA,26:19:57.000,89.59,Ultraman Florida Triathlon
+12,Caroline,Bloom,F,30-40,CO,26:47:45.000,96.845,Ultraman Florida Triathlon
+13,Dan,Mund,M,40-50,ON,27:08:03.000,86.943,Ultraman Florida Triathlon
+14,Alyson,Watson,F,40-50,CA,27:22:25.000,94.8,Ultraman Florida Triathlon
+15,Jonas,Johnson,M,30-40,VA,27:46:44.000,84.925,Ultraman Florida Triathlon
+16,Diogo,Decker,M,30-40,Paraná,27:51:18.000,84.693,Ultraman Florida Triathlon
+17,Leah,Armstrong,F,40-50,VA,28:54:33.000,89.766,Ultraman Florida Triathlon
+18,Jessica,Zaiss,F,30-40,CA,29:09:32.000,88.997,Ultraman Florida Triathlon
+19,Siobhan,Maize,F,40-50,SC,29:12:52.000,88.827,Ultraman Florida Triathlon
+20,Roman,Gratteri,M,40-50,OR,30:21:58.000,77.689,Ultraman Florida Triathlon
+1,Dan,Oryall,M,30-40,WI,00:41:00.000,93.544,Winter Wonderland Triathlon
+2,Quinton,Kneeland,M,10-20,WI,00:41:17.000,92.902,Winter Wonderland Triathlon
+3,Edward,Hansen,M,10-20,WI,00:42:06.000,91.099,Winter Wonderland Triathlon
+4,Garrett,Williams,M,20-30,MN,00:42:12.000,90.884,Winter Wonderland Triathlon
+5,Ian,Bormett,M,10-20,WI,00:42:21.000,90.562,Winter Wonderland Triathlon
+6,Michael,Braman,M,20-30,MN,00:42:32.000,90.171,Winter Wonderland Triathlon
+7,David,Braun,M,30-40,WI,00:42:35.000,90.066,Winter Wonderland Triathlon
+8,Nikolas,Pardoe,M,20-30,WI,00:43:35.000,87.999,Winter Wonderland Triathlon
+9,Zach,Dahlseng,M,20-30,WI,00:43:41.000,87.798,Winter Wonderland Triathlon
+10,Michael,Lisle,M,40-50,WI,00:44:08.000,86.902,Winter Wonderland Triathlon
+11,Ryan,Steger,M,20-30,WI,00:44:09.000,86.869,Winter Wonderland Triathlon
+12,Sophie,Rabino,F,20-30,MN,00:44:29.000,94.841,Winter Wonderland Triathlon
+13,Gregory,Shobert,M,10-20,IL,00:44:39.000,85.897,Winter Wonderland Triathlon
+14,Douglas,Kellner,M,20-30,WI,00:44:41.000,85.833,Winter Wonderland Triathlon
+15,Anne,Schwarzwalder,F,20-30,WI,00:44:53.000,93.995,Winter Wonderland Triathlon
+16,Nathan,Mueggenberg,M,20-30,MN,00:44:57.000,85.323,Winter Wonderland Triathlon
+17,Ethan,Rupp,M,10-20,PA,00:45:10.000,84.914,Winter Wonderland Triathlon
+18,Miguel,Anselmo,M,20-30,MN,00:45:21.000,84.571,Winter Wonderland Triathlon
+19,Evelyn,Werking,F,20-30,WI,00:45:56.000,91.847,Winter Wonderland Triathlon
+20,Lars,Johnson,M,10-20,WI,00:46:12.000,83.015,Winter Wonderland Triathlon
+1,Ian,Hoover-Grinde,M,20-30,IA,00:32:00.000,101.799,Tri-owa Indoor Triathlon
+2,Garrett,Williams,M,20-30,MN,00:34:22.380,94.772,Tri-owa Indoor Triathlon
+3,Wyatt,Mattas,M,20-30,KS,00:36:03.000,90.363,Tri-owa Indoor Triathlon
+4,Xander,Apponi,M,20-30,IA,00:36:39.340,88.87,Tri-owa Indoor Triathlon
+5,Benjamin,Leiran,M,20-30,MN,00:37:29.260,86.897,Tri-owa Indoor Triathlon
+6,Jeff,Lovgren,M,30-40,KS,00:38:00.680,85.7,Tri-owa Indoor Triathlon
+7,Koki,Takemoto,M,20-30,KS,00:38:05.000,85.538,Tri-owa Indoor Triathlon
+8,Elijah ,Salas,M,10-20,KS,00:38:12.340,85.264,Tri-owa Indoor Triathlon
+9,Shaden,Tweeten,M,20-30,IA,00:38:17.360,85.078,Tri-owa Indoor Triathlon
+10,Scott,Nemec,M,20-30,IA,00:38:45.060,84.064,Tri-owa Indoor Triathlon
+11,Zack,Wascher,M,20-30,IL,00:38:55.500,83.689,Tri-owa Indoor Triathlon
+12,Mac,Foley,M,20-30,KS,00:39:46.200,81.911,Tri-owa Indoor Triathlon
+13,Henry,Holtz,M,20-30,IL,00:40:06.280,81.227,Tri-owa Indoor Triathlon
+14,Jack,Nagla,M,20-30,IA,00:40:15.460,80.918,Tri-owa Indoor Triathlon
+15,Jonah,Wagner,M,20-30,KS,00:41:24.580,78.667,Tri-owa Indoor Triathlon
+16,Tyler,Dennis,M,20-30,IA,00:41:41.130,78.147,Tri-owa Indoor Triathlon
+17,Jack,Stewart,M,10-20,IL,00:43:33.700,74.781,Tri-owa Indoor Triathlon
+18,Max,Wascher,M,10-20,IL,00:43:38.000,74.658,Tri-owa Indoor Triathlon
+19,Andrew,Nguyen,M,10-20,KS,00:43:54.050,74.203,Tri-owa Indoor Triathlon
+20,Kristina,Swenson,F,20-30,IA,00:44:12.000,81.071,Tri-owa Indoor Triathlon
+1,Michael,Harris,M,50-60,NY,01:14:08.749,87.779,"HITS Triathlon Series: Sarasota, FL"
+2,Cody,Angell,M,30-40,FL,01:15:03.387,86.714,"HITS Triathlon Series: Sarasota, FL"
+3,Wyatt,Campbell,M,20-30,FL,01:15:58.970,85.656,"HITS Triathlon Series: Sarasota, FL"
+4,Corey,Steimel,M,30-40,CO,01:16:43.670,84.825,"HITS Triathlon Series: Sarasota, FL"
+5,Blake,Riley,M,20-30,FL,01:17:04.819,84.437,"HITS Triathlon Series: Sarasota, FL"
+6,Scott,Nemec,M,20-30,IL,01:17:05.492,84.425,"HITS Triathlon Series: Sarasota, FL"
+7,Dirk,Van Doren,M,60-70,FL,01:19:07.969,82.247,"HITS Triathlon Series: Sarasota, FL"
+8,Jeremy,White,M,40-50,FL,01:20:01.390,81.332,"HITS Triathlon Series: Sarasota, FL"
+9,Mike,Kaufman,M,50-60,FL,01:20:58.713,80.372,"HITS Triathlon Series: Sarasota, FL"
+10,Brawley,Adams,M,20-30,FL,01:22:36.139,78.792,"HITS Triathlon Series: Sarasota, FL"
+11,Kim,Albin,F,40-50,MI,01:22:59.550,86.264,"HITS Triathlon Series: Sarasota, FL"
+12,Alexander,Mostovych,M,20-30,FL,01:23:00.057,78.414,"HITS Triathlon Series: Sarasota, FL"
+13,Jaime,Wohl,F,40-50,FL,01:23:22.490,85.868,"HITS Triathlon Series: Sarasota, FL"
+14,Matthew,Frommelt,M,30-40,FL,01:23:30.219,77.942,"HITS Triathlon Series: Sarasota, FL"
+15,John,Slocum,M,50-60,FL,01:23:33.890,77.885,"HITS Triathlon Series: Sarasota, FL"
+16,Jason,Blackman,M,30-40,FL,01:23:43.745,77.732,"HITS Triathlon Series: Sarasota, FL"
+17,Katie,Hammond,F,30-40,FL,01:24:08.040,85.094,"HITS Triathlon Series: Sarasota, FL"
+18,Mateus,Arruda,M,30-40,FL,01:24:25.790,77.087,"HITS Triathlon Series: Sarasota, FL"
+19,Hunter,Carey,M,20-30,IA,01:25:26.741,76.17,"HITS Triathlon Series: Sarasota, FL"
+20,Doerte,Fehseehlert,F,40-50,0,01:25:30.953,83.719,"HITS Triathlon Series: Sarasota, FL"
